@@ -23,6 +23,10 @@ O projeto simula o sorteio de um amigo secreto, onde cada participante é associ
 - Ao chegar ao final da lista e você clica em "Sortear amigo", ele exibe uma mensagem dizendo que todos amigos já foram sorteados.
 - Foi adicionado um botão "Novo Jogo".
 
+## Faça o teste sem baixar
+Foi feito um deploy da aplicação no Vercel. Para testar basta acessar o link a seguir:
+https://alura-challenge-amigo-secreto.vercel.app/
+
 ## Contribuição
 Se desejar contribuir com melhorias, crie uma branch, faça suas alterações e envie um pull request.
 
